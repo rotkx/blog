@@ -16,10 +16,9 @@ This repository holds the **original source** of all blog articles — open, tra
 
 ## 📂 Folder Structure
     /posts
-      └── 2025/
-        └── 07/
-          └── 30/
-            └── how-to-use-cookies-in-blogger/
+      └── 2020/
+        └── 06/
+            └── turbo-responsive-blogger-theme/
                 └── README.md # Full article content
 
 > ✅ Each folder = one blog post. The folder name matches the post’s URL slug.
