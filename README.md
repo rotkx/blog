@@ -1,7 +1,10 @@
-# 📚 Rotkx Blog Posts Repository
 
-Welcome to the content archive of [https://blog.rotkx.net](https://blog.rotkx.net)  
-This repository holds the **original source** of all blog articles — open, transparent, and version-controlled.
+# 📚 Rotkx Blog Posts Repository
+Open-source blog post repository for rotkx blog. Contributors can suggest articles, edits, or improvements via pull requests. Final content is reviewed and approved by the maintainer.
+
+This repository hosts the editable content of the [Rotkx Blog](https://blog.rotkx.net/).  
+Contributors are welcome to suggest improvements or submit new posts via pull requests.  
+All submissions are reviewed manually before publishing.
 
 <br>
 
@@ -9,7 +12,7 @@ This repository holds the **original source** of all blog articles — open, tra
 
 - 📝 Store blog post content in Markdown (`README.md`)
 - 🖼️ Include related media (multiple resolutions per post)
-- 📅 Organize posts by **year/month/day**
+- 📅 Organize posts by **year/month**
 - 🔗 Match each folder name to the post slug used in the blog URL
 - 🤝 Enable community contributions directly through GitHub
 <br>
