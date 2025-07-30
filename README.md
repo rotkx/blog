@@ -32,6 +32,7 @@ This repository holds the **original source** of all blog articles — open, tra
 
 **Repo Path:**  
 `https://github.com/rotkx/blog` + `/2020/06/turbo-responsive-blogger-theme/README.md`
+
 <br>
 
 ## ✍️ How to Contribute
@@ -41,6 +42,7 @@ We welcome edits, typo fixes, suggestions, or even full article drafts!
 1. Open the folder for that post
 2. Edit the `README.md` and propose a Pull Request
 3. Optionally submit new image sizes or updates
+
 <br>
 
 ## 🌐 Blog Integration
