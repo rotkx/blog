@@ -1,6 +1,5 @@
 
 # 📚 Rotkx Blog Posts Repository
-Open-source blog post repository for rotkx blog. Contributors can suggest articles, edits, or improvements via pull requests. Final content is reviewed and approved by the maintainer.
 
 This repository hosts the editable content of the [Rotkx Blog](https://blog.rotkx.net/).  
 Contributors are welcome to suggest improvements or submit new posts via pull requests.  
