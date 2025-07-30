@@ -25,6 +25,15 @@ This repository holds the **original source** of all blog articles — open, tra
 > ✅ Each folder = one blog post. The folder name matches the post’s URL slug.
 <br>
 
+## 🔗 Example Mapping
+
+**Blog URL:**  
+`https://blog.rotkx.net` + `/2020/06/turbo-responsive-blogger-theme.html`
+
+**Repo Path:**  
+`https://github.com/rotkx/blog` + `/2020/06/turbo-responsive-blogger-theme/README.md`
+<br>
+
 ## ✍️ How to Contribute
 
 We welcome edits, typo fixes, suggestions, or even full article drafts!
@@ -42,14 +51,6 @@ We welcome edits, typo fixes, suggestions, or even full article drafts!
 - Blog post URLs match folder structure exactly.
 <br>
 
-## 🔗 Example Mapping
-
-**Blog URL:**  
-`https://blog.rotkx.net` + `/2020/06/turbo-responsive-blogger-theme.html`
-
-**Repo Path:**  
-`https://github.com/rotkx/blog` + `/2020/06/turbo-responsive-blogger-theme/README.md`
-<br>
 
 ## 📜 License
 
