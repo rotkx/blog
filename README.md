@@ -48,7 +48,7 @@ We welcome edits, typo fixes, suggestions, or even full article drafts!
 `https://blog.rotkx.net` + `/2020/06/turbo-responsive-blogger-theme.html`
 
 **Repo Path:**  
-`https://github.com/rotkx` + `/blog/2020/06/turbo-responsive-blogger-theme/README.md`
+`https://github.com/rotkx/blog` + `/2020/06/turbo-responsive-blogger-theme/README.md`
 <br>
 
 ## 📜 License
@@ -57,7 +57,9 @@ Content is licensed under **[CC BY-NC-SA 4.0](https://creativecommons.org/licens
 You're free to copy, remix, or translate with attribution — but **not for commercial use**.
 
 
+<!--
 ## 🧑‍💻 Maintained by
 
 [@melgoharyme](https://github.com/melgoharyme)  
 Part of the [rotkx](https://github.com/rotkx) organization
+-->
