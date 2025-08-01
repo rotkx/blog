@@ -29,10 +29,10 @@ All submissions are reviewed manually before publishing.
 ## 🔗 Example Mapping
 
 **Blog URL:**  
-`https://blog.rotkx.net` + `/2020/06/turbo-responsive-blogger-theme.html`
+`https://blog.rotkx.net/2020/06/turbo-responsive-blogger-theme.html`
 
 **Repo Path:**  
-`https://github.com/rotkx/blog` + `/2020/06/turbo-responsive-blogger-theme/README.md`
+`https://github.com/rotkx/blog/blob/main/2020/06/turbo-responsive-blogger-theme/README.md`
 
 <br>
 
